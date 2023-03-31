@@ -11,6 +11,6 @@ The dataset in this lab is a .csv file containing 10 thousand grocery transactio
 - Check if an itemset is frequent
 
 ## Apriori algorithm
-- Join 2 k-itemset to form a k+1-itemset
-- Prune step
-- Complete Apriori
+- Join 2 k-itemset to form a k+1-itemset (_Cal_Self_Join()_)
+- Prune step (_Prune_By_Apriori()_)
+- Complete Apriori (_Frequent_Itemset_Mining_Apriori()_)
