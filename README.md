@@ -1,5 +1,5 @@
 # Frequent Itemset Mining
-This is my submission for the Lab assignment 2 in Data mining class. It is an implementation of Apriori algorithm in order to solve the problem of Frequent Itemset Mining.
+This is my submission for the Lab assignment 2 in Data mining class. It is an implementation of Apriori algorithm in order to solve the problem of Frequent Itemset Mining. Except for numpy, no external tools or libraries are allowed for this lab assignment.
 
 ## Read and explore the dataset
 The dataset in this lab is a .csv file containing 10 thousand grocery transactions.
